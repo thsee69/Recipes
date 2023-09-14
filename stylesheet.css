@@ -20,8 +20,6 @@ body {
     padding: 4px;
 }
 
-
-
 #menu_bar a {
     display: block;
     color: white;
@@ -125,13 +123,16 @@ body {
     font-size: 20px;
     text-decoration: none;
 }
+
 .email_contact_link a {
     text-decoration: none;
 }
+
 .email_contact_link a:visited {
     text-decoration: none;
     color: white;
 }
+
 .email_contact_link a:hover {
     text-decoration: none;
     color: lightgray;
