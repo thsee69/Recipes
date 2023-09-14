@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+
+.recipe_link {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+
+}
+
+.recipe_link:hover {
+    color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.recipe_header {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+.ingredients_header {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+
+.ingredients_list {
+    font-family:Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 19px;
+}
+
+.instructions_header {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+
+}
+
+.instructions_list {
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 19px;
+}
+
+.home_link {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home_link:hover {
+    color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
