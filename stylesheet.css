@@ -20,6 +20,10 @@ body {
     padding: 4px;
 }
 
+
+
+
+
 #menu_bar a {
     display: block;
     color: white;
@@ -35,12 +39,22 @@ body {
 .recipe_link {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
     padding: 1px 1px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     
 }
+
+/* MORE TO COME */
+
+.recipe_link_moretocome {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+/* */
 
 .recipe_link:hover {
     color: lightgray;
@@ -60,9 +74,18 @@ body {
 
 .recipe_header {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 1.5em;
+    font-size: 2em;
     text-align: center;
     text-decoration: none;
+}
+
+.recipe_header_main {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 3.5em;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+    padding-top: 20px;
 }
 
 .recipe_caption {
@@ -144,5 +167,5 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width:80%;
 } 
