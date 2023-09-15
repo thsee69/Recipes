@@ -5,6 +5,7 @@ body {
 
 #menu_bar {
     list-style-type: none;
+    display: block;
     margin: 0px;
     padding: 0;
     overflow: hidden;
